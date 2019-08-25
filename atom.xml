@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-25T11:25:37.764Z</updated>
+  <updated>2019-08-25T11:39:21.778Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,12 +21,23 @@
     <link href="http://yoursite.com/2019/08/25/Rethink/"/>
     <id>http://yoursite.com/2019/08/25/Rethink/</id>
     <published>2019-08-25T11:25:37.000Z</published>
-    <updated>2019-08-25T11:25:37.764Z</updated>
+    <updated>2019-08-25T11:39:21.778Z</updated>
+    
+    <content type="html"><![CDATA[<meta name="referrer" content="no-referrer">不断地提升认知意味着需要不断和曾经的一部分自我划分界限，又需要坚定地维持另一部分。]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+不断地提升认知意味着需要不断和曾经的一部分自我划分界限，又需要坚定地维持另一部分。
+
+      
+    
     </summary>
     
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
