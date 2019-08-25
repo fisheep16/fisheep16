@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-24T10:23:14.219Z</updated>
+  <updated>2019-08-25T01:19:17.169Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Data</title>
+    <title>Onenote学习共享笔记本</title>
     <link href="http://yoursite.com/2019/08/23/Data/"/>
     <id>http://yoursite.com/2019/08/23/Data/</id>
     <published>2019-08-23T06:49:16.000Z</published>
-    <updated>2019-08-24T10:23:14.219Z</updated>
+    <updated>2019-08-25T01:19:17.169Z</updated>
     
     <content type="html"><![CDATA[<meta name="referrer" content="no-referrer"><div class="image-size-200">    这是一个Onenote共享笔记本链接，是关于Data的学习    <img src="/2019/08/23/Data/data.png"><p>下面是链接地址：    </p><a href="https://1drv.ms/u/s!Amp45fXBqmH8hHVRGPz43iuyK0VW" title="[Note link]" target="_blank" rel="noopener">Click here ps:need vpn</a></div>]]></content>
     
@@ -39,7 +39,7 @@
     </summary>
     
     
-      <category term="学习,Data" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0-Data/"/>
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
