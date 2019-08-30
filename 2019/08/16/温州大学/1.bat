@@ -1,1 +1,0 @@
-DIR *.* /B>Filename-list.txt
