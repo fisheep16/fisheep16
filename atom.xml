@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-01T14:19:02.244Z</updated>
+  <updated>2019-09-02T14:50:09.652Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数据可视化</title>
+    <link href="http://yoursite.com/2019/09/02/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
+    <id>http://yoursite.com/2019/09/02/数据可视化/</id>
+    <published>2019-09-02T14:46:40.000Z</published>
+    <updated>2019-09-02T14:50:09.652Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><meta name="referrer" content="no-referrer"><p>以下链接是python基础绘图，为了维持网站访问速度，我把内容放到了GitHub上，这里放一个链接。</p><a href="https://github.com/fisheep16/Study[Note" title="link]" target="_blank" rel="noopener">Click获取资料</a>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>一个集成的脑机接口平台拥有数千个通道</title>
@@ -46,7 +69,7 @@
     <published>2019-08-25T11:25:37.000Z</published>
     <updated>2019-08-31T01:56:45.017Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><meta name="referrer" content="no-referrer">        <div id="aplayer-JlBMuptv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-JlBMuptv"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "It's Only",              author: "Odesza&Zyra",              url: "http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_53418383&response=res&type=convert_url&",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>不断地提升认知意味着需要不断和曾经的一部分自我划分界限，又需要坚定地维持另一部分。</p><p>社会工作的本质是大部分人的重复+一小撮人的创造。</p><p>维持自身有序且尽可能抽象具象均保持熵增趋势会带来更大改变的可能。</p><p>每天都需要尝试些好玩儿的。</p><p>以前我总觉得默默地生活学习，不需要打扰到任何人，我的一切目的都不是为了让谁觉得我如何，但渐渐地我觉得正是有那样一些come alive的人让我坚定，觉得自己所经历的一切都不特殊，自己想要的生活方式也正有人在进行着某一部分。<br>以前想的是希望有人陪伴不要孤单，但现在那些come alive的人对我来说意味着希望。一切我正在经历的感受的都将成为我与他们共情的梯子。<br>Everyone’s changed,everything’s changed.<br>But I,I’ll keep myself.</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><meta name="referrer" content="no-referrer">        <div id="aplayer-BsBkzkfi" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-BsBkzkfi"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "It's Only",              author: "Odesza&Zyra",              url: "http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_53418383&response=res&type=convert_url&",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>不断地提升认知意味着需要不断和曾经的一部分自我划分界限，又需要坚定地维持另一部分。</p><p>社会工作的本质是大部分人的重复+一小撮人的创造。</p><p>维持自身有序且尽可能抽象具象均保持熵增趋势会带来更大改变的可能。</p><p>每天都需要尝试些好玩儿的。</p><p>以前我总觉得默默地生活学习，不需要打扰到任何人，我的一切目的都不是为了让谁觉得我如何，但渐渐地我觉得正是有那样一些come alive的人让我坚定，觉得自己所经历的一切都不特殊，自己想要的生活方式也正有人在进行着某一部分。<br>以前想的是希望有人陪伴不要孤单，但现在那些come alive的人对我来说意味着希望。一切我正在经历的感受的都将成为我与他们共情的梯子。<br>Everyone’s changed,everything’s changed.<br>But I,I’ll keep myself.</p>]]></content>
     
     <summary type="html">
     
@@ -92,7 +115,7 @@
     <published>2019-08-16T13:54:24.000Z</published>
     <updated>2019-09-01T13:59:32.651Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><meta name="referrer" content="no-referrer">        <div id="aplayer-KehrsseA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-KehrsseA"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Dreams on Fire",              author: "Blue Foundation",              url: "http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_9809612&response=res&type=convert_url&",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><div class="article"><img src="/2019/08/16/温州大学/p9.jpg" title="图书馆后面的荷塘"><img src="/2019/08/16/温州大学/p10.jpg" title="行政楼"><img src="/2019/08/16/温州大学/p11.jpg" title="我最喜欢的小山坡 我可以在草坪上躺一天哈哈哈 白天看云朵 夜晚观星星"><img src="/2019/08/16/温州大学/p13.jpg" title="南校区的桥"><img src="/2019/08/16/温州大学/p14.jpg" title="这张图我是抓着旁边的植物拍的...还好没掉下去orz.."><img src="/2019/08/16/温州大学/p17.jpg" title="图书馆的草坪"><img src="/2019/08/16/温州大学/p18.jpg" title="修剪植物的人"><img src="/2019/08/16/温州大学/p19.jpg" title="黑天鹅 呜哈哈"><img src="/2019/08/16/温州大学/p20.jpg" title="我好喜欢这张图"><img src="/2019/08/16/温州大学/haokan.jpg"><img src="/2019/08/16/温州大学/haomei.jpg"><img src="/2019/08/16/温州大学/heye.jpg"><img src="/2019/08/16/温州大学/qinshi.jpg"><img src="/2019/08/16/温州大学/shouji.jpg"><p>前面都是IphoneSE拍哒<br>后面的是新买的相机（sonyA6300）拍哒</p><img src="/2019/08/16/温州大学/taotu1.jpg"><img src="/2019/08/16/温州大学/taotu2.jpg"><img src="/2019/08/16/温州大学/taotu3.jpg"><img src="/2019/08/16/温州大学/taotu4.jpg"><img src="/2019/08/16/温州大学/taotu5.jpg"><img src="/2019/08/16/温州大学/xiangji2.jpg"><img src="/2019/08/16/温州大学/xiangji3.jpg"><img src="/2019/08/16/温州大学/xiangji4.jpg"><img src="/2019/08/16/温州大学/xiangji5.jpg"><img src="/2019/08/16/温州大学/xiangji6.jpg"><p>hhhhhh放一张马甲线！</p><img src="/2019/08/16/温州大学/zipia.jpg"></div>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><meta name="referrer" content="no-referrer">        <div id="aplayer-coXwKhFL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-coXwKhFL"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Dreams on Fire",              author: "Blue Foundation",              url: "http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_9809612&response=res&type=convert_url&",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><div class="article"><img src="/2019/08/16/温州大学/p9.jpg" title="图书馆后面的荷塘"><img src="/2019/08/16/温州大学/p10.jpg" title="行政楼"><img src="/2019/08/16/温州大学/p11.jpg" title="我最喜欢的小山坡 我可以在草坪上躺一天哈哈哈 白天看云朵 夜晚观星星"><img src="/2019/08/16/温州大学/p13.jpg" title="南校区的桥"><img src="/2019/08/16/温州大学/p14.jpg" title="这张图我是抓着旁边的植物拍的...还好没掉下去orz.."><img src="/2019/08/16/温州大学/p17.jpg" title="图书馆的草坪"><img src="/2019/08/16/温州大学/p18.jpg" title="修剪植物的人"><img src="/2019/08/16/温州大学/p19.jpg" title="黑天鹅 呜哈哈"><img src="/2019/08/16/温州大学/p20.jpg" title="我好喜欢这张图"><img src="/2019/08/16/温州大学/haokan.jpg"><img src="/2019/08/16/温州大学/haomei.jpg"><img src="/2019/08/16/温州大学/heye.jpg"><img src="/2019/08/16/温州大学/qinshi.jpg"><img src="/2019/08/16/温州大学/shouji.jpg"><p>前面都是IphoneSE拍哒<br>后面的是新买的相机（sonyA6300）拍哒</p><img src="/2019/08/16/温州大学/taotu1.jpg"><img src="/2019/08/16/温州大学/taotu2.jpg"><img src="/2019/08/16/温州大学/taotu3.jpg"><img src="/2019/08/16/温州大学/taotu4.jpg"><img src="/2019/08/16/温州大学/taotu5.jpg"><img src="/2019/08/16/温州大学/xiangji2.jpg"><img src="/2019/08/16/温州大学/xiangji3.jpg"><img src="/2019/08/16/温州大学/xiangji4.jpg"><img src="/2019/08/16/温州大学/xiangji5.jpg"><img src="/2019/08/16/温州大学/xiangji6.jpg"><p>hhhhhh放一张马甲线！</p><img src="/2019/08/16/温州大学/zipia.jpg"></div>]]></content>
     
     <summary type="html">
     
