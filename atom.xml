@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-02T04:30:12.888Z</updated>
+  <updated>2019-11-12T11:44:20.240Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Articles-For-Sharing</title>
+    <link href="http://yoursite.com/2019/11/12/Articles-For-Sharing/"/>
+    <id>http://yoursite.com/2019/11/12/Articles-For-Sharing/</id>
+    <published>2019-11-12T11:43:39.000Z</published>
+    <updated>2019-11-12T11:44:20.240Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><a href="https://www.cnblogs.com/TenosDoIt/p/3214096.html" title="[Works link]" target="_blank" rel="noopener">线性代数的本质--对线性空间、向量和矩阵的直觉描述</a>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="读书笔记" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>abupy量化开源项目</title>
@@ -161,7 +184,7 @@
     <published>2019-08-25T11:25:37.000Z</published>
     <updated>2019-09-17T13:37:34.873Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><meta name="referrer" content="no-referrer">        <div id="aplayer-nUUfZxUA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-nUUfZxUA"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "It's Only",              author: "Odesza&Zyra",              url: "http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_53418383&response=res&type=convert_url&",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>不断地提升认知意味着需要不断和曾经的一部分自我划分界限，又需要坚定地维持另一部分。</p><p>社会工作的本质是大部分人的重复+一小撮人的创造。</p><p>维持自身有序且尽可能抽象具象均保持熵增趋势会带来更大改变的可能。</p><p>每天都需要尝试些好玩儿的。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><meta name="referrer" content="no-referrer">        <div id="aplayer-cnPBhPBG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-cnPBhPBG"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "It's Only",              author: "Odesza&Zyra",              url: "http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_53418383&response=res&type=convert_url&",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>不断地提升认知意味着需要不断和曾经的一部分自我划分界限，又需要坚定地维持另一部分。</p><p>社会工作的本质是大部分人的重复+一小撮人的创造。</p><p>维持自身有序且尽可能抽象具象均保持熵增趋势会带来更大改变的可能。</p><p>每天都需要尝试些好玩儿的。</p>]]></content>
     
     <summary type="html">
     
@@ -205,9 +228,9 @@
     <link href="http://yoursite.com/2019/08/16/%E6%B8%A9%E5%B7%9E%E5%A4%A7%E5%AD%A6/"/>
     <id>http://yoursite.com/2019/08/16/温州大学/</id>
     <published>2019-08-16T13:54:24.000Z</published>
-    <updated>2019-11-02T04:33:58.172Z</updated>
+    <updated>2019-11-12T12:06:37.656Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><meta name="referrer" content="no-referrer">        <div id="aplayer-zwZShGjZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-zwZShGjZ"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Dreams on Fire",              author: "Blue Foundation",              url: "http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_9809612&response=res&type=convert_url&",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><div class="article"><img src="/2019/08/16/温州大学/p9.jpg" title="图书馆后面的荷塘"><img src="/2019/08/16/温州大学/p10.jpg" title="行政楼"><img src="/2019/08/16/温州大学/p11.jpg" title="我最喜欢的小山坡 我可以在草坪上躺一天哈哈哈 白天看云朵 夜晚观星星"><img src="/2019/08/16/温州大学/p13.jpg" title="南校区的桥"><img src="/2019/08/16/温州大学/p21.jpg"><img src="/2019/08/16/温州大学/p14.jpg" title="这张图我是抓着旁边的植物拍的...还好没掉下去orz.."><img src="/2019/08/16/温州大学/p17.jpg" title="图书馆的草坪"><img src="/2019/08/16/温州大学/p18.jpg" title="修剪植物的人"><img src="/2019/08/16/温州大学/p19.jpg" title="黑天鹅 呜哈哈"><img src="/2019/08/16/温州大学/p20.jpg" title="我好喜欢这张图"><img src="/2019/08/16/温州大学/p21.jpg" title="好美啊"><img src="/2019/08/16/温州大学/haomei.jpg"><img src="/2019/08/16/温州大学/heye.jpg"><p>前面都是IphoneSE拍哒<br>后面的是新买的相机（sonyA6300）拍哒</p><img src="/2019/08/16/温州大学/taotu1.jpg"><img src="/2019/08/16/温州大学/taotu2.jpg"><img src="/2019/08/16/温州大学/taotu4.jpg"><img src="/2019/08/16/温州大学/xiangji2.jpg"><img src="/2019/08/16/温州大学/xiangji3.jpg"><img src="/2019/08/16/温州大学/xiangji4.jpg"><img src="/2019/08/16/温州大学/xiangji5.jpg"><img src="/2019/08/16/温州大学/xiangji6.jpg"><p>hhhhhh放一张马甲线！</p><img src="/2019/08/16/温州大学/zipia.jpg"></div>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><meta name="referrer" content="no-referrer">        <div id="aplayer-kDvYggol" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-kDvYggol"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Dreams on Fire",              author: "Blue Foundation",              url: "http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_9809612&response=res&type=convert_url&",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><div class="article"><img src="/2019/08/16/温州大学/p9.jpg" title="图书馆后面的荷塘"><img src="/2019/08/16/温州大学/p11.jpg" title="我最喜欢的小山坡 我可以在草坪上躺一天哈哈哈 白天看云朵 夜晚观星星"><img src="/2019/08/16/温州大学/p21.jpg"><img src="/2019/08/16/温州大学/p17.jpg" title="图书馆的草坪"><p>前面都是IphoneSE拍哒<br>后面的是新买的相机（sonyA6300）拍哒</p><img src="/2019/08/16/温州大学/xiangji2.jpg"><img src="/2019/08/16/温州大学/xiangji3.jpg"><p>hhhhhh放一张马甲线！</p><img src="/2019/08/16/温州大学/zipia.jpg"><a href="https://github.com/fisheep16/fisheep[温州大学]" target="_blank" rel="noopener">查看更多</a></div>]]></content>
     
     <summary type="html">
     
